@@ -5,11 +5,11 @@ This repository is for the completed games made following the tutorial by: freeC
 Each game will be available once completed and you can view the code by clicking on the links underneath each game.
 
 The games which are made are as follows:
-1. Pong [x]
-2. Snake
-3. Connect Four
-4. Tetris
-5. Online Multiplayer Game
+- [x] 1. Pong
+- [ ] 2. Snake
+- [ ] 3. Connect Four
+- [ ] 4. Tetris
+- [ ] 5. Online Multiplayer Game
 
 # Game 1: Pong 
 NB. The sound for the game only works in the game whilst running Windows.

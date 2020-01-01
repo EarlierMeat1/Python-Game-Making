@@ -13,5 +13,5 @@ The games which are made are as follows:
 
 # Game 1: Pong 
 NB. The sound for the game only works in the game whilst running Windows.
-![Pong Game]()  
-[View Code]()
+![Pong Game](https://github.com/EarlierMeat1/Python-Game-Making/blob/master/pong/Pong%20Game.png)  
+[View Code](https://github.com/EarlierMeat1/Python-Game-Making/tree/master/pong)
